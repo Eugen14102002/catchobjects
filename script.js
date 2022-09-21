@@ -19,11 +19,11 @@ $(function () {
         } else {
             egg_down(egg3);
         }
-        if (check_egg_hits_floor(egg4) || check_egg_hits_basket(egg4)) {
-            set_egg_to_initial_position(egg4);
-        } else {
-            egg_down(egg4);
-        }
+        // if (check_egg_hits_floor(egg4) || check_egg_hits_basket(egg4)) {
+        //     set_egg_to_initial_position(egg4);
+        // } else {
+        //     egg_down(egg4);
+        // }
 
         if (life > 0) {
             anim_id = requestAnimationFrame(the_game);

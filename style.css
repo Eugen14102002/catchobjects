@@ -36,19 +36,19 @@ body {
 }
 
 #hen1 {
-    left: 14%;
+    left: 23%;
 }
 
 #hen2 {
-    left: 34%;
+    left: 43%;
 }
 
 #hen3 {
-    left: 54%;
+    left: 63%;
 }
-#hen4 {
+/* #hen4 {
     left: 74%;
-}
+} */
 
 
 .egg {
@@ -64,19 +64,19 @@ body {
 
 #egg1 {
     
-    left: calc(16% + 8%/2 - 2%/2);
+    left: calc(25% + 8%/2 - 2%/2);
 }
 
 #egg2 {
-    left: calc(36% + 8%/2 - 2%/2);
+    left: calc(45% + 8%/2 - 2%/2);
 }
 
 #egg3 {
-    left: calc(56% + 8%/2 - 2%/2);
+    left: calc(65% + 8%/2 - 2%/2);
 }
-#egg4 {
+/* #egg4 {
     left: calc(76% + 8%/2 - 2%/2);
-}
+} */
 
 .bullseye {
     display: none;
@@ -91,20 +91,20 @@ body {
 }
 
 #bullseye1 {
-    left: calc(15% + 8%/2 - 7%/2);
+    left: calc(22% + 8%/2 - 7%/2);
 }
 
 #bullseye2 {
-    left: calc(35% + 8%/2 - 7%/2);
+    left: calc(42% + 8%/2 - 7%/2);
 }
 
 #bullseye3 {
-    left: calc(55% + 8%/2 - 7%/2);
+    left: calc(62% + 8%/2 - 7%/2);
 }
 
-#bullseye4 {
+/* #bullseye4 {
     left: calc(75% + 8%/2 - 7%/2);
-}
+} */
 
 #floor {
     position: absolute;
