@@ -36,16 +36,20 @@ body {
 }
 
 #hen1 {
-    left: 19%;
+    left: 14%;
 }
 
 #hen2 {
-    left: 39%;
+    left: 34%;
 }
 
 #hen3 {
-    left: 59%;
+    left: 54%;
 }
+#hen4 {
+    left: 74%;
+}
+
 
 .egg {
     background-image: url('hat2.png');
@@ -60,43 +64,47 @@ body {
 
 #egg1 {
     
-    left: calc(20% + 8%/2 - 2%/2);
+    left: calc(16% + 8%/2 - 2%/2);
 }
 
 #egg2 {
-    left: calc(40% + 8%/2 - 2%/2);
+    left: calc(36% + 8%/2 - 2%/2);
 }
 
 #egg3 {
-    left: calc(60% + 8%/2 - 2%/2);
+    left: calc(56% + 8%/2 - 2%/2);
 }
-/* .egg1{
-    background-image: url('hat2.png');
-} */
+#egg4 {
+    left: calc(76% + 8%/2 - 2%/2);
+}
 
-/* .bullseye {
+.bullseye {
     display: none;
     position: absolute;
     bottom: 0px;
-    height: 7%;
+    height: 9%;
     width: 9%;
-    background: url('bullseye1.png');
+    background: url('x.png');
     background-size: cover;
     background-repeat: no-repeat;
     z-index: 11;
 }
 
 #bullseye1 {
-    left: calc(20% + 8%/2 - 7%/2);
+    left: calc(15% + 8%/2 - 7%/2);
 }
 
 #bullseye2 {
-    left: calc(40% + 8%/2 - 7%/2);
+    left: calc(35% + 8%/2 - 7%/2);
 }
 
 #bullseye3 {
-    left: calc(60% + 8%/2 - 7%/2);
-} */
+    left: calc(55% + 8%/2 - 7%/2);
+}
+
+#bullseye4 {
+    left: calc(75% + 8%/2 - 7%/2);
+}
 
 #floor {
     position: absolute;
